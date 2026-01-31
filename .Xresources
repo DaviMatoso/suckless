@@ -1,0 +1,15 @@
+
+#include "/home/lua/.cache/wal/colors.Xresources"
+#include "/home/lua/.cache/wal/dunst.Xresources"
+#include "/home/lua/.cache/wal/dmenu.Xresources"
+
+!st.font:JetBrainsMonoNerdFontMono:pixelsize=16:antialias=true:autohint=true
+st.font:FiraCodeNerdFontMono:pixelsize=16:antialias=true:autohint=true
+st.bold_font:			0
+st.alpha:   			0.8
+st.termname:			xterm-256color
+st.shell:			/bin/sh
+st.bellvolume:			100
+st.tabspaces:			8
+st.chscale:			1.0
+st.cwscale:			1.0
